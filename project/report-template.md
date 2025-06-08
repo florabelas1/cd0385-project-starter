@@ -29,7 +29,6 @@ I would experiment more with feature engineering — especially by creating weat
 
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-|model|hpo1|hpo2|hpo3|score|
 | model         | hpo1                        | hpo2                    | hpo3                    | score |
 | ------------- | --------------------------- | ----------------------- | ----------------------- | ----- |
 | initial       | —                           | —                       | —                       | 55.05 |
